@@ -5,4 +5,5 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=milena-kos&label=Profile%20views&color=4f94ef" alt="milena-kos" />
+  <img src="https://wakatime.com/badge/user/9255df94-b002-4908-90da-d71683162640.svg">
 </p>
