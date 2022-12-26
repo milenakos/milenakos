@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://youtube.com/c/Milenakos"><img src="banner.png"></a>
+  <a href="https://youtube.com/c/Milenakos">My YouTube Channel</a>
+  <br>There was originally a banner but it is outdated lol.
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=milena-kos" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milena-kos&langs_count=8" height="195rem" />
