@@ -1,11 +1,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=milena-kos">
 
-## Milenakos
+## Milenakos *(me-lee-nah-kos)*
 
 [![YouTube](https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Youtube.svg)](https://youtube.com/@Milenakos)
 [![Discord](https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Discord.svg)](https://discord.gg/4AuJn7FepS)
 [![Twitch](https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Twitch.svg)](https://twitch.tv/milenakos)
 [<img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="Itch.io" style="width:49px;"/>](https://milenakos.itch.io)
+[<img src="replitcircle.png" alt="Replit" style="width:49px;"/>](https://replit.com/@milenakos)
+[![Mail](https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Gmail.svg)](mailto:business@milenakos.tk)
 
 Some of my projects:
 
