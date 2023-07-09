@@ -10,6 +10,10 @@
 [<img src="replitcircle.png" alt="Replit" style="width:49px;"/>](https://replit.com/@milenakos)
 [<img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Gmail.svg" alt="Mail" style="width:49px;"/>](mailto:milenakos@duck.com)
 
+<p align="center">
+any/all, a bit genderfluid, GMT+3, Russian 🇷🇺
+</p>
+
 Some of my projects:
 
 - [CMMM+MM](https://milenakos.itch.io/cmmm-plus-milenakos-mod)
