@@ -2,12 +2,13 @@
 
 ## Milenakos *(me-lee-nah-kos)*
 
-[![YouTube](https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Youtube.svg)](https://youtube.com/@Milenakos)
+[<img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Youtube.svg" alt="YouTube" style="width:49px;"/>](https://youtube.com/@Milenakos)
 [<img src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png" alt="Discord" style="width:49px;"/>](https://discord.gg/4AuJn7FepS)
-[![Twitch](https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Twitch.svg)](https://twitch.tv/milenakos)
+[<img src="threadsicon.png" alt="Threads" style="width:49px;"/>](https://threads.net/milenakoscm)
+[<img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Twitch.svg" alt="Twitch" style="width:49px;"/>](https://twitch.tv/milenakos)
 [<img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="Itch.io" style="width:49px;"/>](https://milenakos.itch.io)
 [<img src="replitcircle.png" alt="Replit" style="width:49px;"/>](https://replit.com/@milenakos)
-[![Mail](https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Gmail.svg)](mailto:business@milenakos.tk)
+[<img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Gmail.svg" alt="Mail" style="width:49px;"/>](mailto:milenakos@duck.com)
 
 Some of my projects:
 
