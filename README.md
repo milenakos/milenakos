@@ -3,7 +3,7 @@
 ## Milenakos *(me-lee-nah-kos)*
 
 [<img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Youtube.svg" alt="YouTube" style="width:49px;"/>](https://youtube.com/@Milenakos)
-[<img src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png" alt="Discord" style="width:49px;"/>](https://discord.gg/4AuJn7FepS)
+[<img src="https://web.archive.org/web/20230316022805if_/https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-2048x2048.png" alt="Discord" style="width:49px;"/>](https://discord.gg/4AuJn7FepS)
 [<img src="threadsicon.png" alt="Threads" style="width:49px;"/>](https://threads.net/milenakoscm)
 [<img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Twitch.svg" alt="Twitch" style="width:49px;"/>](https://twitch.tv/milenakos)
 [<img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="Itch.io" style="width:49px;"/>](https://milenakos.itch.io)
@@ -11,7 +11,7 @@
 [<img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Gmail.svg" alt="Mail" style="width:49px;"/>](mailto:milenakos@duck.com)
 
 <p align="center">
-any/all, a bit genderfluid, GMT+3, Russian 🇷🇺
+any/all, genderfluid, GMT+3, Russian 🇷🇺
 </p>
 
 Some of my projects:
