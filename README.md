@@ -4,7 +4,7 @@
 
 [<img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Youtube.svg" alt="YouTube" style="width:49px;"/>](https://youtube.com/@Milenakos)
 [<img src="https://web.archive.org/web/20230316022805if_/https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-2048x2048.png" alt="Discord" style="width:49px;"/>](https://discord.gg/4AuJn7FepS)
-[<img src="threadsicon.png" alt="Threads" style="width:49px;"/>](https://threads.net/milenakoscm)
+[<img src="https://joinmastodon.org/logos/logo-purple.svg" alt="Threads" style="height:49px;"/>](https://mast.to/@milenakos)
 [<img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Twitch.svg" alt="Twitch" style="width:49px;"/>](https://twitch.tv/milenakos)
 [<img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="Itch.io" style="width:49px;"/>](https://milenakos.itch.io)
 [<img src="replitcircle.png" alt="Replit" style="width:49px;"/>](https://replit.com/@milenakos)
