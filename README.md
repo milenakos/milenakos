@@ -4,7 +4,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@Milenakos)
 [![Milenakos Mods](https://img.shields.io/badge/Milenakos%20Mods-5865F2?logo=discord&logoColor=white)](https://discord.gg/4AuJn7FepS)
-[![Cat Stand](https://img.shields.io/badge/Cat%20Stand-5865F2?logo=discord&logoColor=white)](https://discord.gg/4AuJn7FepS)
+[![Cat Stand](https://img.shields.io/badge/Cat%20Stand-5865F2?logo=discord&logoColor=white)](https://discord.gg/cat-stand-966586000417619998)
 [![Mastodon](https://img.shields.io/badge/mas.to-6364FF?logo=Mastodon&logoColor=white)](https://mast.to/@milenakos)
 [![Itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://milenakos.itch.io)
 [![Replit](https://img.shields.io/badge/replit-667881?logo=replit&logoColor=white)](https://replit.com/@milenakos)
