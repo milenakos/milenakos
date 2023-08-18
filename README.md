@@ -2,13 +2,13 @@
 
 ## Milenakos *(me-lee-nah-kos)*
 
-[<img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Youtube.svg" alt="YouTube" style="width:49px;"/>](https://youtube.com/@Milenakos)
-[<img src="https://web.archive.org/web/20230316022805if_/https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-2048x2048.png" alt="Discord" style="width:49px;"/>](https://discord.gg/4AuJn7FepS)
-[<img src="https://joinmastodon.org/logos/logo-purple.svg" alt="Threads" style="height:49px;"/>](https://mast.to/@milenakos)
-[<img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Twitch.svg" alt="Twitch" style="width:49px;"/>](https://twitch.tv/milenakos)
-[<img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="Itch.io" style="width:49px;"/>](https://milenakos.itch.io)
-[<img src="replitcircle.png" alt="Replit" style="width:49px;"/>](https://replit.com/@milenakos)
-[<img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Gmail.svg" alt="Mail" style="width:49px;"/>](mailto:milenakos@duck.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@Milenakos)
+[![Milenakos Mods](https://img.shields.io/badge/Milenakos%20Mods-5865F2?logo=discord&logoColor=white)](https://discord.gg/4AuJn7FepS)
+[![Cat Stand](https://img.shields.io/badge/Cat%20Stand-5865F2?logo=discord&logoColor=white)](https://discord.gg/4AuJn7FepS)
+[![Mastodon](https://img.shields.io/badge/mas.to-6364FF?logo=Mastodon&logoColor=white)](https://mast.to/@milenakos)
+[![Itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://milenakos.itch.io)
+[![Replit](https://img.shields.io/badge/replit-667881?logo=replit&logoColor=white)](https://replit.com/@milenakos)
+[![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](https://replit.com/@milenakos)
 
 <p align="center">
 any/all, genderfluid, GMT+3, Russian 🇷🇺
