@@ -8,7 +8,7 @@
 [![Mastodon](https://img.shields.io/badge/mas.to-6364FF?logo=Mastodon&logoColor=white)](https://mast.to/@milenakos)
 [![Itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://milenakos.itch.io)
 [![Replit](https://img.shields.io/badge/replit-667881?logo=replit&logoColor=white)](https://replit.com/@milenakos)
-[![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](https://replit.com/@milenakos)
+[![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:milenakos@duck.com)
 
 <p align="center">
 any/all, genderfluid, GMT+3, Russian 🇷🇺
