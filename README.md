@@ -4,9 +4,9 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@Milenakos)
 [![Cat Stand](https://img.shields.io/badge/Cat%20Stand-5865F2?logo=discord&logoColor=white)](https://discord.gg/cat-stand-966586000417619998)
-[![Sakurajima](https://img.shields.io/badge/Sakurajima-B15C65?logo=mastodon&logoColor=white)](https://sakurajima.moe/@milenakos)
+[![Sakurajima](https://img.shields.io/badge/Fedi-DB6072?logo=wireshark&logoColor=white)](https://catgirl.center/@milenakos)
 [![Itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://milenakos.itch.io)
-[![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:contact@minkos.lol)
+[![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:mail@minkos.lol)
 
 <p align="center">
 she/any, genderfluid, GMT+3, Russian
