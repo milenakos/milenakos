@@ -25,3 +25,6 @@ Some of my projects:
 https://dontasktoask.com • https://nohello.net • https://xyproblem.info
 
 ![Milenakos GitHub profile views](https://komarev.com/ghpvc/?username=milena-kos&label=Profile%20views&color=4f94ef)
+
+
+https://hipolink.me/milenakos
