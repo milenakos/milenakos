@@ -1,6 +1,6 @@
 # Lia Milenakos *(me-lee-nah-kos)*
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=milena-kos">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=milenakos">
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@Milenakos)
 [![Sharkey](https://img.shields.io/badge/Fedi-DB6072?logo=wireshark&logoColor=white)](https://catgirl.center/@milenakos)
@@ -14,7 +14,7 @@ she/her, transfem lesbian catgirl, GMT+3, Russian
 
 Some of my projects:
 
-- [Cat Bot](https://github.com/milena-kos/cat-bot)
+- [Cat Bot](https://github.com/milenakos/cat-bot)
 
 - [CMMM+MM](https://milenakos.itch.io/cmmm-plus-milenakos-mod)
 
@@ -23,5 +23,3 @@ Some of my projects:
 - [CMMM Online](https://milenakos.itch.io/cmmm-online)
 
 https://dontasktoask.com • https://nohello.net • https://xyproblem.info
-
-![Milenakos GitHub profile views](https://komarev.com/ghpvc/?username=milena-kos&label=Profile%20views&color=4f94ef)
