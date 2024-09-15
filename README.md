@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=milenakos&theme=synthwave&show_icons=true">
 
-[![Sharkey](https://img.shields.io/badge/%40milenakos%40catgirl.center-DB6072?logo=wireshark&logoColor=white)](https://catgirl.center/@milenakos)
+[![Sharkey](https://img.shields.io/badge/%40milenakos%40catgirl.center-DB6072?logo=mastodon&logoColor=white)](https://catgirl.center/@milenakos)
 [![Cat Stand](https://img.shields.io/badge/discord.gg%2Fstaring-5865F2?logo=discord&logoColor=white)](https://discord.gg/staring)
 <br content="">
 [![Mail](https://img.shields.io/badge/lia%40minkos.lol-D14836?logo=gmail&logoColor=white)](mailto:lia@minkos.lol)
