@@ -5,7 +5,7 @@
 Socials: 
 [![Sharkey](https://img.shields.io/badge/Fedi-DB6072?logo=wireshark&logoColor=white)](https://catgirl.center/@milenakos)
 [![Cat Stand](https://img.shields.io/badge/Cat%20Stand-5865F2?logo=discord&logoColor=white)](https://discord.gg/staring)
-   
+<br content="">
 Contacts: 
 [![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:lia@minkos.lol)
 [![Signal](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=white)](https://signal.me/#eu/eQGXeYY5EmN-fXJiDIG3j3sBTN_1CXfoFelhA-pgcG0GAQdeVPRHJYQWR7lCLr-a)
