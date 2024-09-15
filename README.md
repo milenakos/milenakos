@@ -1,12 +1,15 @@
-# Lia Milenakos *(me-lee-nah-kos)*
+# 🌺 Lia Milenakos *(me-lee-nah-kos)*
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=milenakos">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=milenakos&theme=synthwave&show_icons=true">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@Milenakos)
+Socials: 
 [![Sharkey](https://img.shields.io/badge/Fedi-DB6072?logo=wireshark&logoColor=white)](https://catgirl.center/@milenakos)
-[![Cat Stand](https://img.shields.io/badge/Cat%20Stand-5865F2?logo=discord&logoColor=white)](https://discord.gg/cat-stand-966586000417619998)
-[![Itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://milenakos.itch.io)
+[![Cat Stand](https://img.shields.io/badge/Cat%20Stand-5865F2?logo=discord&logoColor=white)](https://discord.gg/staring)
+   
+Contacts: 
 [![Mail](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:lia@minkos.lol)
+[![Signal](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=white)](https://signal.me/#eu/eQGXeYY5EmN-fXJiDIG3j3sBTN_1CXfoFelhA-pgcG0GAQdeVPRHJYQWR7lCLr-a)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/553093932012011520)
 
 <p align="center">
 she/her, transfem lesbian catgirl, GMT+3, Russian
@@ -14,7 +17,7 @@ she/her, transfem lesbian catgirl, GMT+3, Russian
 
 Some of my projects:
 
-- [Cat Bot](https://github.com/milenakos/cat-bot)
+- [Cat Bot](https://github.com/milenakos/cat-bot) (30k servers!)
 
 - [CMMM+MM](https://milenakos.itch.io/cmmm-plus-milenakos-mod)
 
