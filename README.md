@@ -18,8 +18,6 @@ Some of my projects:
 
 - [CMMM+MM](https://milenakos.itch.io/cmmm-plus-milenakos-mod)
 
-- [Schemacell](https://milenakos.itch.io/schemacell)
-
 - [CMMM Online](https://milenakos.itch.io/cmmm-online)
 
 https://dontasktoask.com • https://nohello.net • https://xyproblem.info
