@@ -12,12 +12,8 @@
 she/her, transfem lesbian catgirl, GMT+3, Russian
 </p>
 
-Some of my projects:
+I made Cat Bot!
 
-- [Cat Bot](https://github.com/milenakos/cat-bot) (60k servers!)
-
-- [CMMM+MM](https://milenakos.itch.io/cmmm-plus-milenakos-mod)
-
-- [CMMM Online](https://milenakos.itch.io/cmmm-online)
+[![Cat Bot top.gg page](https://top.gg/api/widget/966695034340663367.svg)](https://top.gg/bot/966695034340663367)
 
 https://dontasktoask.com • https://nohello.net • https://xyproblem.info
